@@ -77,6 +77,6 @@ for (y in 2010:2015) {
   assign(paste("service.area.",y,sep=""),service.year)  
 }
 
-contract.service.area=rbind(service.area.2006,service.area.2007,service.area.2008,service.area.2009,service.area.2010,
+contract.service.area=rbind(service.area.2010,
                             service.area.2011,service.area.2012,service.area.2013,service.area.2014,service.area.2015)
 write_rds(contract.service.area,"data/output/contract_service_area.rds")
