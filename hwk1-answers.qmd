@@ -31,8 +31,6 @@ load("Homework1-Sub3_workspace.Rdata")
 ```
 
 
-My answers to the homework questions are described below. Note that I do the analysis for these answers in a separate `R` script. You can read in the full data as part of your markdown file, but that takes some time to compile to pdf. So I run the analysis separately, save the workspace with only the summary stats, figures, and tables that I need, and then load the workspace in the final qmd. My analysis file is available in the analysis folder. Enjoy!
-
 \newpage
 # Enrollment Data
 Answer the following based on the enrollment data:
@@ -157,5 +155,5 @@ All beneficiaries still pay a Part B premium (nearly $180 in 2022). So a plan wi
 \newpage
 \noindent 10. Briefly describe your experience working with these data (just a few sentences). Tell me one thing you learned and one thing that really aggravated you.<br>
 
-One thing I learned as an instructor is that it takes a couple of days to get all of the kinks out in the workflow process (git, github, r, vs code, quarto). I think next year I'll have a 1-2 hour tutorial on a weekend or something to make sure everyone has this process in place before we start on the homework. On the bright side, this is the biggest dataset we'll work with all year!
+My experience working with this data was frustrating at first because I did not know how to use to software that the assignment required. However, once I spent more hours playing around in Github and VS code, I found completing questions and successfully rendering documents to be extremely rewarding. I feel confident that I will be able to work with filepaths and clean data sets in the next homework assignment more effectively than I was able to in this assignment.
 
